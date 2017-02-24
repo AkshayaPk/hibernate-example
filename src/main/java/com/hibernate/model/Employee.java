@@ -8,7 +8,11 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 import org.hibernate.annotations.NotFound;
-
+/**
+ * 
+ * @author Akshay
+ *
+ */
 @Entity
 @Table(name="employee_details" , catalog="employee")
 public class Employee {
