@@ -1,0 +1,3 @@
+com\hibernate\model\Employee.class
+com\hibernate\dao\EmployeeDAO.class
+com\hibernate\dao\EmployeeIntf.class
